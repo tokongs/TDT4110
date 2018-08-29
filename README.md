@@ -1,2 +1,3 @@
 # TDT4110
-Øvinger og prosjekter relatert til ITGK
+Assesments and projects related to Introduction to Information Technology
+
