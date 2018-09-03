@@ -1,0 +1,5 @@
+a) Alan Turing er kjent for å ha å laget en maskin som kunne brukes til å dekryptere den tyske enigma maskinen, 
+i tilegg til å ha formalisert mange grunnleggende ideer innen informatikk og datateknologi
+b) De mindre kretskortene som plugges in i hovedkortet kalles komponenter.
+c) CPU står for central proccessing unit
+d) "Random" i RAM kommer av det tilfeldige "tilgangsmønsteret"
