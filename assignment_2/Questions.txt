@@ -1,0 +1,6 @@
+1) Primærlagring er korttidsminne som RAM og sekundærlagring er minne som holder på daten over lengre tid(også etter at strømmen er tatt).
+2) RAM er volatilt og med tilfeldig aksess. HD er ikke voltilt og har sekvensiell aksess. SSD er ikke volatilt, men 
+dataen er lagret som elektroniske ladninger kan begynnee å miste data når de blir gamle. SSD har også tilfeldig aksess
+3)Silisium brukes mye i elektronikk på grunn av dets egenskaper som en halvleder
+4) En transistor er en elektronisk komponent som kan "åpne" eller "lukke" seg for å kontrollere strøm. Den kan også forsterke en strøm.
+5) (32 000 * 8)bit / 40s = 6,4 Mbit/s

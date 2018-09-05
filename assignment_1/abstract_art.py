@@ -14,13 +14,16 @@ colormode(255)
 background_color = int(input("Enter a number between 0-16777215 representing the background color: "))
 drawing_color = int(input("Enter a number between 0-16777215 representing the drawing color: "))
 
-Bb = background_color % 256
+Bb = background_color %
 background_color -= Bb
 background_color /= 256
 Bg = background_color % 256
 background_color -= Bg
 background_color /= 256
 Br = background_color % 256
+
+
+print("R:", Br, "\tG:", Bg, "\tB:", Bb)
 
 Rb = drawing_color % 256
 drawing_color -= Rb
