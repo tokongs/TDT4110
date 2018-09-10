@@ -1,0 +1,8 @@
+a) Stegene i fetch/execute cycle er: 1: Instruction Fetch. 2: Instruction decode. 3:Data fetch.
+4: Instruction execute. 5: Retrun result
+b) Data fetch flytter verdier fra minnet til ALU
+c) Programtelleren holder styr på hvilken instruction som skal kjøres
+d) Forventet klokkehastighet på en moderne datamaskin er ~2 Ghz
+e) SSD står for solid state drive
+f) Forskjellen mellom en SSD og en HDD er at en SSD er elektronisk, mes en HDD er elektromekanisk
+g) Hovedoppgaven til en ALU er å gjør aritmetiske regneoperasjoner
