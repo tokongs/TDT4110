@@ -37,7 +37,7 @@ def intro_text():
         print("")
     print("Hei, jeg heter HAL og bil gjerne snakke med deg.")
     print("Ikke start svar med stor bokstav og bruk hele setninger")
-    print("Skriv 'hadeæ hvis du vil avslutte samtalen")
+    print("Skriv 'hade hvis du vil avslutte samtalen")
     print("**************************************************")
     print("")
  
@@ -101,17 +101,19 @@ def main():
     # Skriv oppfølgningsspørsmålet sammen med svaret fra brukeren
     # og et spørsmålstegn ved hjelp av funksjonen print_sentence
     # MANGLER KODE HER!!!
-    
+    print_sentence([follow, ans])
     # Spør brukeren om et svar med teksten "Svar: " uten å lagre
     # resultatet til variabel
     # MANGLER KODE HER!!!
- 
+    input("Svar:")
+
     # Plukk ut en tilfeldig respons fra lista responses
     # ved hjelp av funksjonen pick_sentence
     # MANGLER KODE HER!!!
- 
+    response = pick_sentence(responses)
     # Skriv reponsen sammen med navnet til brukeren
     # og et punktum (".") ved hjelp av funksjonen print_sentence
     # MANGLER KODE HER!!!
+    print_sentence([response, name, "."])
  
 main()

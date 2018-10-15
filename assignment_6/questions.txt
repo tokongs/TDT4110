@@ -1,0 +1,12 @@
+a) Man finner HTTP, SMTP og FTP i applikasjonslaget til TCP/IP
+b) Paritet som feildeteksjonsmetide fungerer ved å padde data med en bit for
+at pariteten skal være kjent for både sende og mottaker slik at mottaker
+kan sjekke at dataen har den forventede pariteten.
+c) Forskjellen på circuit switching og packet switching er at circuit switching
+skaper en dedikert link fra sender til mottaker. Mens packer switching deler data 
+opp i mindre deler og sender gjennom et netverk uten å ha en dedikert rute fra A-b
+d) Oppgaven til rutere er å rute trafikken dit den skal
+e) En protokoll i en netverkssammenheng er et sett med regler of konvensjoner som 
+spesifiserer hvordan data skal sendes og mottaes og hvordan den skal være strukturert.
+f) De fem protokoll-lagene som ofte brukes for å forklare de forskjellige funkjsonene 
+til internett er: Fysisk lag, Data link lag, Netverkslag trasportlag apllikasjonslag
