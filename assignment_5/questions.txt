@@ -1,0 +1,9 @@
+1) 4 bytes kan representrere 256^4 forskjellige verdier
+2) Man trenger 1920*1080 bytes for å representere et full HD svart hvitt bilde
+3) En DAC er en digital to analog converter som konverterer binær info til analog info
+4) 18 i binær er 10010. 18 i hexadesimal er 12
+5) POP kodet i asci blir 0101 0000 100 1111 0101 0000
+6) En piksel er en liten del av en skjerm som lyser opp og kombinerer som regle tre forskjellige farger
+til sammen blir det et bilde som vises på skjermen.
+7)Forskjellen på analog og digital lyd er at analog lyd ikke kan deles opp i distinkte deler.
+Den er med andre ord kontinuerlig. Mens digital lyd kan deles opp i distinkte deleretokongs@hotmail.com

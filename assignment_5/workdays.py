@@ -10,9 +10,9 @@ def weekday_newyear(year):
     day = 0
     for x in range(1900, year):
         if(is_leap_year(x)):
-           day += 2; 
+           day += 2 
         else:
-            day += 1;
+            day += 1
     return day % 7 
 
 def is_workday(day):

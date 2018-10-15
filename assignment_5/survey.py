@@ -12,7 +12,10 @@ def skriv_statestikk():
     print("Antall kvinner:", antall_kvinner)
     print("Antall fag:", antall_fag)
     print("Antall ITGK:", antall_ITGK)
-    print("Antall timer lekser:", antall_timer_lekser)
+    if(antall_kvinner != 0 or antall_menn != 0):
+        print("Antall timer lekser i snitt:", antall_timer_lekser / (antall_kvinner + antall_menn))
+    else:
+        print("Antall timer lekser: i snitt", antall_timer_lekser)
 
 def sjekk_svar(spm):
     svar = input(spm)
