@@ -1,0 +1,8 @@
+A) et intranet er et "internt" internet
+b) Forskjellen på en host og en ruter er at en ruter ikke trenger appliksjonslaget.
+c) Dette er in IP adresse
+d) IP-adresse er noe som lbir brukt for å adressere enheter på et nettverk
+e) Forskjellen på IPv4 og IPv6 er 32 vs 128 bit, og IPv4 har to nivåer(netverk,host) mens IPv& har tre(global prefix, subnet, host)
+f) Vi trenger IPv6 fordi vi går tom for IPv4
+g)ISP står for internet service provider
+
